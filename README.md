@@ -1,17 +1,35 @@
 ![logo](https://github.com/IsmaelKiprop/IsmaelKiprop/assets/133222922/250ea94c-3e96-4205-9b47-3ebbdeb9e391)
 
+<p align="center">
+  <img src="" alt="Logo" width="200"/>
+</p>
+<h1 align="center">Hi 👋, I'm Ismael</h1>
+<h3 align="center">Junior Software Engineer from Kenya</h3>
 
-<h1 align="center">Hi👋, Am Ismael</h1>
-<h3 align="center">A Junior Software Engineer from Kenya</h3>
-                 
-<img align="right" alt="coding" width="100" src="https://github.com/IsmaelKiprop/IsmaelKiprop/assets/133222922/fec54b35-4361-407e-af2a-98fb7e39cfc6">
+<p align="right">
+  <img src="https://github.com/IsmaelKiprop/IsmaelKiprop/blob/main/assets/coding.gif" alt="Coding" width="250"/>
+</p>
 
-Here are some ideas to get you started:
+- 🌱 I'm currently focusing on **C Programming**.
+- 👨‍💻 You can find my projects on my [LinkedIn](https://ke.linkedin.com/in/ismael-kiprop-11581722b) profile.
+- 📫 You can reach me at **kipropismael27@gmail.com**.
+- 😄 Pronouns: **"iss"**.
 
-- 🌱 I’m currently learning C-Programming
-- 👨‍💻 All of my projects are available at: https://ke.linkedin.com/in/ismael-kiprop-11581722b
-- 📫 How to reach me: kipropismael27@gmail.com
-- 😄 Pronouns: "iss"
+### Skills and Technologies
+
+- Programming Languages: C
+- Web Technologies: HTML, CSS, JavaScript
+- Version Control: Git, GitHub
+- Operating Systems: Linux, Windows
+  
+### Badges
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://ke.linkedin.com/in/ismael-kiprop-11581722b)
+- [![GitHub](https://img.shields.io/github/followers/IsmaelKiprop?style=social)](https://github.com/IsmaelKiprop)
+
+Thank you for visiting my profile! Feel free to connect with me or explore my projects. Have a great day! 🚀
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismaelkiprop&label=Profile%20views&color=0e75b6&style=flat" alt="ismaelkiprop" /> </p>
 
