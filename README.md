@@ -1,8 +1,5 @@
 ![logo](https://github.com/IsmaelKiprop/IsmaelKiprop/assets/133222922/250ea94c-3e96-4205-9b47-3ebbdeb9e391)
 
-<p align="center">
-  <img src="" alt="Logo" width="200"/>
-</p>
 <h1 align="center">Hi 👋, I'm Ismael</h1>
 <h3 align="center">Junior Software Engineer from Kenya</h3>
 
