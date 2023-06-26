@@ -1,5 +1,3 @@
-![logo](https://github.com/IsmaelKiprop/IsmaelKiprop/assets/133222922/250ea94c-3e96-4205-9b47-3ebbdeb9e391)
-
 <h1 align="center">Hi 👋, I'm Ismael</h1>
 <h3 align="center">Junior Software Engineer from Kenya</h3>
 
@@ -24,9 +22,7 @@
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://ke.linkedin.com/in/ismael-kiprop-11581722b)
 - [![GitHub](https://img.shields.io/github/followers/IsmaelKiprop?style=social)](https://github.com/IsmaelKiprop)
 
-Thank you for visiting my profile! Feel free to connect with me or explore my projects. Have a great day! 🚀
-
-
+Thank you for visiting my profile! If you have any questions or would like to collaborate on a project, feel free to reach out. Let's connect and make an impact together! 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismaelkiprop&label=Profile%20views&color=0e75b6&style=flat" alt="ismaelkiprop" /> </p>
 
