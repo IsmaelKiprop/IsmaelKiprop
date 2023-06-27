@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/1059022/screenshots/3745283/thumbnail.png" alt="Logo" width="1280" height="720">
+<img src="https://cdn.dribbble.com/users/1059022/screenshots/3745283/thumbnail.png" alt="Logo" width="1280" height="400">
 
 
 <h1 align="center">Hi 👋, I'm Ismael</h1>
