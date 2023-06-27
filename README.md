@@ -1,67 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ismael's Profile</title>
-    <style>
-        @keyframes marquee {
-            0% { transform: translateX(100%); }
-            100% { transform: translateX(-100%); }
-        }.marquee {
-            display: inline-block;
-            white-space: nowrap;
-            overflow: hidden;
-            animation: marquee 10s linear infinite;
-        }body {
-            font-family: Arial, sans-serif;
-            background-color: #f7f7f7;
-            margin: 0;
-            padding: 20px;
-        }h1 {
-            text-align: center;
-        }h3 {
-            text-align: center;
-        }p {
-            text-align: right;
-        }img {
-            width: 250px;
-            display: block;
-            margin: 0 auto;
-        }ul {
-            list-style-type: none;
-            padding: 0;
-        }li {
-            margin-bottom: 10px;
-        }a {
-            text-decoration: none;
-            color: #0366d6;
-        }a:hover {
-            text-decoration: underline;
-        }.badge {
-            display: inline-block;
-            padding: 5px 10px;
-            background-color: #0366d6;
-            color: #fff;
-            border-radius: 4px;
-            margin-right: 5px;
-        }.languages-tools {
-            display: flex;
-            align-items: center;
-            margin-top: 20px;
-        }.languages-tools img {
-            margin-right: 5px;
-        }.stats {
-            display: flex;
-            justify-content: space-between;
-            margin-top: 20px;
-        }.stats-item {
-            text-align: center;
-        }.connect-icons img {
-            margin-right: 10px;
-        }
-    </style>
-</head>
+
 <body>
     <img src="https://cdn.dribbble.com/users/1059022/screenshots/3745283/thumbnail.png" alt="Logo" width="1280" height="300">
     <h1>Hi 👋, I'm Ismael</h1>
@@ -107,6 +44,7 @@
     </p>
 
   <h3 align="left">Connect with me:</h3>
+  
 
   <p align="left">
         <a href="https://twitter.com/@kipropismael27" target="blank">
@@ -116,8 +54,8 @@
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismael kiprop" height="30" width="40" />
         </a>
     </p>
-
-  <img align="center" width="400" src="https://github.com/IsmaelKiprop/IsmaelKiprop/blob/main/assets/133222922/b43aa1b9-be52-4fa4-a1d1-20e7d64fbb83">
+    <img align="center" width="400" 
+            src="https://github.com/IsmaelKiprop/IsmaelKiprop/assets/133222922/b43aa1b9-be52-4fa4-a1d1-20e7d64fbb83"> 
 
   <h3 align="left">Languages and Tools:</h3>
     <p align="left">
