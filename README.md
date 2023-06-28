@@ -4,9 +4,6 @@
     <h1>Hi 👋, I'm Ismael</h1>
     <h3 align="center">
         <span class="marquee">Junior Software Engineer from Kenya</span>
-    </h3>
-
-  <img src="https://github.com/IsmaelKiprop/IsmaelKiprop/blob/main/assets/coding.gif" alt="Coding">
 
   <ul>
         <li>🌱 I'm currently focusing on <strong>C Programming</strong>.</li>
