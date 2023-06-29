@@ -3,7 +3,7 @@
     <img src="https://cdn.dribbble.com/users/1059022/screenshots/3745283/thumbnail.png" alt="Logo" width="1280" height="300">
     <h1>Hi 👋, I'm Ismael</h1>
     <h3 align="center">
-        <span class="marquee">Junior Software Engineer from Kenya</span>
+        <h3><span class="marquee">Junior Software Engineer from Kenya</span></h3>
 
   <ul>
         <li>🌱 I'm currently focusing on <strong>C Programming</strong>.</li>
