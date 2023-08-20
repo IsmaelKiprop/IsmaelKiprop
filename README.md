@@ -7,7 +7,7 @@
 
   <ul>
         <li>🌱 I'm currently focusing on <strong>C Programming</strong>.</li>
-        <li>👨‍💻 You can find my projects on my <a href="https://ke.linkedin.com/in/ismael-kiprop-11581722b" target="_blank">LinkedIn</a> profile.</li>
+        <li>👨‍💻 You can find my projects on my <a href="https://ismaelkiprop.github.io/my_portfolio/" target="_blank">LinkedIn</a> profile.</li>
         <li>📫 You can reach me at <strong>kipropismael27@gmail.com</strong>.</li>
         <li>😄 Pronouns: <strong>"iss"</strong>.</li>
   </ul>
