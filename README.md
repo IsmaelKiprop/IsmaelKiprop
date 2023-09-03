@@ -6,7 +6,7 @@
         <h3><span class="marquee">Junior Software Engineer from Kenya</span></h3>
 
   <ul>
-        <li>🌱 I'm currently focusing on <strong>C Programming</strong>.</li>
+        <li>🌱 I'm currently focusing on <strong>Python Programming</strong>.</li>
         <li>👨‍💻 You can find my projects on my <a href="https://ismaelkiprop.github.io/my_portfolio/" target="_blank">Portfolio</a> Website </li>
         <li>📫 You can reach me at <strong>kipropismael27@gmail.com</strong>.</li>
         <li>😄 Pronouns: <strong>"iss"</strong>.</li>
