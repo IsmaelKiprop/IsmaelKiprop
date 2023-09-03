@@ -70,16 +70,16 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
     </a>
        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="URL_OF_GIT_ICON" alt="Git" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
     </a> 
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9a%2FVisual_Studio_Code_1.35_icon.svg%2F2048px-Visual_Studio_Code_1.35_icon.svg.png&tbnid=wqehI1sRc0JK1M&vet=12ahUKEwikwJ6bhY6BAxVHVaQEHcifCgAQMygLegUIARCKAQ..i&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AVisual_Studio_Code_1.35_icon.svg&docid=J0FGN7fXOSvuiM&w=2048&h=2048&q=vscode%20icons&ved=2ahUKEwikwJ6bhY6BAxVHVaQEHcifCgAQMygLegUIARCKAQ" alt="VSCode" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="VSCode" width="40" height="40" />
     </a> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="URL_OF_LINUX_ICON" alt="Linux" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
     </a>
     <a href="https://hacklang.org/" target="_blank" rel="noreferrer">
-        <img src="URL_OF_HACK_ICON" alt="Hack" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hacklang/hacklang-original.svg" alt="Hack" width="40" height="40" />
     </a> Hack
 </p>
 
