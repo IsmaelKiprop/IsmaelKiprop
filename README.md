@@ -73,14 +73,14 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
     </a> 
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="VSCode" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/VSCode/VSCode-original.svg" alt="VSCode" width="40" height="40" />
     </a> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
     </a>
     <a href="https://hacklang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hacklang/hacklang-original.svg" alt="Hack" width="40" height="40" />
-    </a> Hack
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hack/hack-original.svg" alt="Hack" width="40" height="40" />
+    </a> 
 </p>
 
 <p>
