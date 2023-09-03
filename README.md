@@ -5,18 +5,7 @@
     <h3 align="center">
         <h3><span class="marquee">Junior Software Engineer from Kenya</span></h3>
 
-<!-- Projects Section -->
-## 🚀 Projects
-
-### Project 1: [Project Name](https://github.com/your-username/project1)
-Description of the project and its significance. [Demo](https://project-demo-link.com)
-
-![Project Screenshot](project-screenshot.png)
-
-### Project 2: [Project Name](https://github.com/your-username/project2)
-...
-
-  <ul>
+<ul>
         <li>🌱 I'm currently focusing on <strong>Python Programming</strong>.</li>
         <li>👨‍💻 You can find my projects on my <a href="https://ismaelkiprop.github.io/my_portfolio/" target="_blank">Portfolio</a> Website </li>
         <li>📫 You can reach me at <strong>kipropismael27@gmail.com</strong>.</li>
