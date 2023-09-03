@@ -4,7 +4,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
-    <img src="https://cdn.dribbble.com/users/1059022/screenshots/3745283/thumbnail.png" alt="Logo" width="1280" height="300">
+    <img src="![image](https://github.com/IsmaelKiprop/IsmaelKiprop/assets/133222922/18424621-d509-49bc-9923-021501861e83)
+" alt="Logo" width="1280" height="300">
     <h1>Hi 👋, I'm Ismael</h1>
     <h3 align="center">
         <span class="marquee">Junior Software Engineer from Kenya</span>
@@ -78,10 +79,7 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
     </a>
-    <a href="https://hacklang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Hack/Hack-original.svg" alt="Hack" width="40" height="40" />
-    </a> 
-</p>
+   </p>
 
 <p>
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismaelkiprop&show_icons=true&locale=en&layout=compact" alt="ismaelkiprop">
