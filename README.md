@@ -73,7 +73,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
     </a> 
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/VSCode/VSCode-original.svg" alt="VSCode" width="40" height="40" />
+        <img src="![image](https://github.com/IsmaelKiprop/IsmaelKiprop/assets/133222922/bf7fff1f-eb70-43e3-afaa-1a42dc77ea84)
+" alt="VSCode" width="40" height="40" />
     </a> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
