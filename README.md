@@ -26,7 +26,7 @@
 <h3>Achievements</h3>
 <ul>
     <li><strong>3rd Place Winner</strong> at the Talan Global Hackathon 2023 🏆</li>
-    <li>As part of our victory, <strong>75 trees will be planted</strong> in recognition of our achievement. 🌱</li>
+    <li>As part of our victory, <strong>100 trees will be planted</strong> in recognition of our achievement. 🌱</li>
     <li>This hackathon connected us with global talents and AI innovations. Thanks to organizers and participants for a memorable experience. 🤖</li>
     <li>Huge thanks to mentors and supporters, your guidance was invaluable. 💪</li>
 </ul>
