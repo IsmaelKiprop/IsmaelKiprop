@@ -46,6 +46,18 @@
         <li>Version Control: Git, GitHub</li>
         <li>Operating Systems: Linux, Windows</li>
     </ul>
+
+<h3>Achievements</h3>
+<ul>
+    <li><strong>3rd Place Winner</strong> at the Talan Global Hackathon 2023 🏆</li>
+    <li>As part of our victory, <strong>75 trees will be planted</strong> in recognition of our achievement. 🌱</li>
+    <li>This hackathon connected us with global talents and AI innovations. Thanks to organizers and participants for a memorable experience. 🤖</li>
+    <li>Huge thanks to mentors and supporters, your guidance was invaluable. 💪</li>
+</ul>
+
+<img src="https://github.com/IsmaelKiprop/IsmaelKiprop/assets/133222922/753e3dff-b3d4-4024-89aa-66fd63043b0d
+" alt="Achievement Image" width="400" height="300">
+
  
 <h3>Badges</h3>
     <ul>
