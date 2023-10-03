@@ -22,6 +22,17 @@
         <li>Version Control: Git, GitHub</li>
         <li>Operating Systems: Linux, Windows</li>
     </ul>
+    <h3>Achievements</h3>
+<ul>
+    <li><strong>3rd Place Winner</strong> at the Talan Global Hackathon 2023 🏆</li>
+    <li>As part of our victory, <strong>100 trees will be planted</strong> in recognition of our achievement. 🌱</li>
+    <li>This hackathon connected us with global talents and AI innovations. Thanks to organizers and participants for a memorable experience. 🤖</li>
+    <li>Huge thanks to mentors and supporters, your guidance was invaluable. 💪</li>
+</ul>
+
+![image](https://github.com/IsmaelKiprop/IsmaelKiprop/assets/133222922/38d2172f-032b-4bbd-b875-a0a40ff1d14e)
+
+
     <h3>Badges</h3>
     <ul>
         <li><a class="badge" href="https://ke.linkedin.com/in/ismael-kiprop-11581722b" target="_blank">LinkedIn</a></li>
