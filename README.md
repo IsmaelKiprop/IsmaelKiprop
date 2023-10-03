@@ -22,30 +22,6 @@
         <li>Version Control: Git, GitHub</li>
         <li>Operating Systems: Linux, Windows</li>
     </ul>
-             <!DOCTYPE html>
-<html>
-<head>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-</head>
-<body>
-   <img src="https://github.com/IsmaelKiprop/IsmaelKiprop/assets/133222922/18424621-d509-49bc-9923-021501861e83" alt="Logo" width="1280" height="300">
-    <h1>Hi 👋, I'm Ismael</h1>
-    <h3 align="center">
-        <span class="marquee">Junior Software Engineer from Kenya</span>
-    </h3>
-    <ul>
-        <li>🌱 I'm currently focusing on <strong>Python Programming</strong>.</li>
-        <li>👨‍💻 You can find my projects on my <a href="https://ismaelkiprop.github.io/my_portfolio/" target="_blank">Portfolio</a> Website</li>
-        <li>📫 You can reach me at <strong>kipropismael27@gmail.com</strong>.</li>
-        <li>😄 Pronouns: <strong>"iss"</strong>.</li>
-    </ul>
-    <h3>Skills and Technologies</h3>
-    <ul>
-        <li>Programming Languages: C, Python, PHP</li>
-        <li>Web Technologies: HTML, CSS, JavaScript</li>
-        <li>Version Control: Git, GitHub</li>
-        <li>Operating Systems: Linux, Windows</li>
-    </ul>
 
 <h3>Achievements</h3>
 <ul>
@@ -55,9 +31,7 @@
     <li>Huge thanks to mentors and supporters, your guidance was invaluable. 💪</li>
 </ul>
 
-<img src="https://github.com/IsmaelKiprop/IsmaelKiprop/assets/133222922/753e3dff-b3d4-4024-89aa-66fd63043b0d
-" alt="Achievement Image" width="400" height="300">
-
+![image](https://github.com/IsmaelKiprop/IsmaelKiprop/assets/133222922/97a5483f-fce3-4906-8ec8-b9a4c1f90a12)
  
 <h3>Badges</h3>
     <ul>
