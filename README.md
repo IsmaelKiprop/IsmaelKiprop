@@ -4,8 +4,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
-
-https://globalhackathon.talan.com/winners/    <img src="https://github.com/IsmaelKiprop/IsmaelKiprop/assets/133222922/18424621-d509-49bc-9923-021501861e83" alt="Logo" width="1280" height="300">
+   <img src="https://github.com/IsmaelKiprop/IsmaelKiprop/assets/133222922/18424621-d509-49bc-9923-021501861e83" alt="Logo" width="1280" height="300">
     <h1>Hi 👋, I'm Ismael</h1>
     <h3 align="center">
         <span class="marquee">Junior Software Engineer from Kenya</span>
