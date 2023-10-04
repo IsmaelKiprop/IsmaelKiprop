@@ -31,7 +31,8 @@
     <li>Huge thanks to mentors and supporters, your guidance was invaluable. 💪</li>
 </ul>
 
-https://drive.google.com/file/d/1IsQbkNWRltfPU_CaYquF6gWa4j8hoeD4/view?usp=sharing
+<img width="529" alt="image" src="https://github.com/IsmaelKiprop/IsmaelKiprop/assets/133222922/ee7ceae4-e390-4a6b-88af-fb4afa12fc38">
+
  
 <h3>Badges</h3>
     <ul>
