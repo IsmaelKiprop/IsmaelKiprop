@@ -98,6 +98,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismaelkiprop&show_icons=true&locale=en" alt="ismaelkiprop"></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismaelkiprop&" alt="ismaelkiprop"></p>
 </body>
 </html>
