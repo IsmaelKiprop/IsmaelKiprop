@@ -87,9 +87,14 @@
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/IsmaelKiprop/IsmaelKiprop/assets/133222922/bf7fff1f-eb70-43e3-afaa-1a42dc77ea84" alt="VSCode" width="40" height="40" />
     </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    
+<a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
+        <img src="https://pics.freeicons.io/uploads/icons/png/1242615691551942124-64.png" alt="Windows" width="40" height="40" />
+</a>
+    
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-    </a>
+</a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://pics.freeicons.io/uploads/icons/png/19218518301553750371-64.png" alt="MySQL" width="40" height="40" />
     </a>
