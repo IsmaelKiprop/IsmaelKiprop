@@ -66,6 +66,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+        <img src="https://pics.freeicons.io/uploads/icons/png/92992841580802957-64.png" alt="Django" width="40" height="40" />
+    </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
     </a>
