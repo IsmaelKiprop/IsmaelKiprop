@@ -91,10 +91,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+        <img src="https://pics.freeicons.io/uploads/icons/png/19218518301553750371-64.png" alt="MySQL" width="40" height="40" />
     </a>
     <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40" />
+        <img src="https://pics.freeicons.io/uploads/icons/png/12857605331540553618-64.png" alt="MariaDB" width="40" height="40" />
     </a>
 </p>
 
