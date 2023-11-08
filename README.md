@@ -9,12 +9,13 @@
     <h3 align="center">
         <span class="marquee">Junior Software Engineer from Kenya</span>
     </h3>
-    <ul>
-        <li>🌱 I'm currently focusing on <strong>Python Programming</strong>.</li>
-        <li>👨‍💻 You can find my projects on my <a href="https://ismaelkiprop.github.io/my_portfolio/" target="_blank">Portfolio</a> Website</li>
-        <li>📫 You can reach me at <strong>kipropismael27@gmail.com</strong>.</li>
-        <li>😄 Pronouns: <strong>"iss"</strong>.</li>
-    </ul>
+ <ul>
+    <li>🌱 I'm currently focusing on <strong>Python Programming</strong>.</li>
+    <li>👨‍💻 You can find my projects on my <a href="https://ismaelkiprop.github.io/my_portfolio/" target="_blank">Portfolio</a> Website</li>
+    <li>📫 You can reach me at <strong>kipropismael27@gmail.com</strong>.</li>
+    <li>😄 Pronouns: <strong>"iss"</strong>.</li>
+    <li>📱 You can also contact me on WhatsApp at <strong><a href="https://wa.me/254768049757">+254768049757</a></strong>.</li>
+</ul>
     <h3>Skills and Technologies</h3>
     <ul>
         <li>Programming Languages: C, Python, PHP</li>
