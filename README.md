@@ -7,7 +7,7 @@
    <img src="https://github.com/IsmaelKiprop/IsmaelKiprop/assets/133222922/18424621-d509-49bc-9923-021501861e83" alt="Logo" width="1280" height="300">
     <h1>Hi 👋, I'm Ismael</h1>
     <h3 align="center">
-        <span class="marquee">A Passionate Software Engineer</span>
+        <span class="marquee">A Passionate Full Stack Software Engineer</span>
     </h3>
 <ul>
     <li>🌱 I'm currently focusing on <strong>Python Programming</strong>.</li>
