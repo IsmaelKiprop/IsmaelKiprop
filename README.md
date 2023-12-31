@@ -38,13 +38,6 @@
 
  
 <h3>Badges</h3>
-    <ul>
-        <li><a class="badge" href="https://ke.linkedin.com/in/ismael-kiprop-11581722b" target="_blank">LinkedIn</a></li>
-        <li><a class="badge" href="https://github.com/IsmaelKiprop" target="_blank">GitHub</a></li>
-        <li><a class="badge" href="https://web.facebook.com/ismael.kiprop.752" target="_blank">Facebook</a></li>
-        <li><a class="badge" href="https://www.youtube.com/@ismaeltechie" target="_blank">Youtube</a></li>
-        
-    </ul>
 <p>Thank you for visiting my profile! If you have any questions or would like to collaborate on a project, feel free to reach out. Let's connect and make an impact          together! 🚀</p>
     <p align="left">
         <img src="https://komarev.com/ghpvc/?username=ismaelkiprop&label=Profile%20views&color=0e75b6&style=flat" alt="ismaelkiprop">
