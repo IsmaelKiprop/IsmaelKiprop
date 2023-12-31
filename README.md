@@ -5,7 +5,8 @@
 </head>
 <body>
   <div align="center">
-  <img src="https://github.com/IsmaelKiprop/IsmaelKiprop/blob/main/assets/133222922/6dcaab08-77a0-484e-b807-5627db7dae78.png" alt="Logo" width="1280" height="300">
+  <img src="![WhatsApp Image 2023-12-31 at 09 44 00_92179836](https://github.com/IsmaelKiprop/IsmaelKiprop/assets/133222922/5748c459-5e52-41f8-8e21-2ad3378025ee)
+" alt="Logo" width="1280" height="300">
 </div>
 
 <h1>Hi 👋, I'm Ismael</h1>
