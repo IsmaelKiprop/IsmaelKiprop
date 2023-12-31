@@ -64,9 +64,6 @@
         <!-- Replace the image URL with your YouTube icon -->
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Your YouTube" height="30" width="40" />
     </a>
-   <a href="https://www.tiktok.com/@ismaeltechie" target="_blank">
-        <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmusically.com%2F2022%2F12%2F21%2Ftiktok-gets-more-transparent-about-for-you-recommendations%2F&psig=AOvVaw2hamitbbqAE9dgpAXdusYW&ust=1704071490319000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCoypm_uIMDFQAAAAAdAAAAABAD" alt="TikTok" height="30" width="30" />
-    </a>
 </p>
 
 
