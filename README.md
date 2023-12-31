@@ -2,10 +2,16 @@
 <html>
 <head>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        /* CSS to center align the image */
+        .center-align {
+            display: block;
+            margin: 0 auto;
+        }
+    </style>
 </head>
 <body>
-<img src="https://github.com/IsmaelKiprop/IsmaelKiprop/blob/main/assets/133222922/6dcaab08-77a0-484e-b807-5627db7dae78.png" alt="Logo" width="1280" height="300">
-
+<img width="699" alt="image" src="https://github.com/IsmaelKiprop/IsmaelKiprop/assets/133222922/384ee16c-c095-42ec-aced-7809ce6118b8" class="center-align">
 <h1>Hi 👋, I'm Ismael</h1>
     <h3 align="center">
         <span class="marquee">A Passionate Full Stack Software Engineer</span>
