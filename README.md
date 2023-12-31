@@ -64,6 +64,10 @@
         <!-- Replace the image URL with your YouTube icon -->
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Your YouTube" height="30" width="40" />
     </a>
+    <a href="https://www.tiktok.com/@ismaeltechie" target="_blank">
+        <!-- Replace the image URL with your TikTok icon -->
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="Your TikTok" height="30" width="40" />
+    </a>
 </p>
 
 
