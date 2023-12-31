@@ -4,9 +4,9 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
-   <img src="<img width="319" alt="image" src="https://github.com/IsmaelKiprop/IsmaelKiprop/assets/133222922/bb531912-decf-4c4f-9a16-49c554b7f75e">
-" alt="Logo" width="1280" height="300">
-    <h1>Hi 👋, I'm Ismael</h1>
+  <img width="319" alt="image" src="https://github.com/IsmaelKiprop/IsmaelKiprop/assets/133222922/6dcaab08-77a0-484e-b807-5627db7dae78">
+
+<h1>Hi 👋, I'm Ismael</h1>
     <h3 align="center">
         <span class="marquee">A Passionate Full Stack Software Engineer</span>
     </h3>
