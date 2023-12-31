@@ -4,7 +4,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
-  <img width="319" alt="image" src="https://github.com/IsmaelKiprop/IsmaelKiprop/assets/133222922/6dcaab08-77a0-484e-b807-5627db7dae78">
+  <img width="319" alt="image" src="https://github.com/IsmaelKiprop/IsmaelKiprop/assets/133222922/6dcaab08-77a0-484e-b807-5627db7dae78"> " alt="logo" width="1280" height="300"
 
 <h1>Hi 👋, I'm Ismael</h1>
     <h3 align="center">
