@@ -41,8 +41,11 @@
     <ul>
         <li><a class="badge" href="https://ke.linkedin.com/in/ismael-kiprop-11581722b" target="_blank">LinkedIn</a></li>
         <li><a class="badge" href="https://github.com/IsmaelKiprop" target="_blank">GitHub</a></li>
+        <li><a class="badge" href="https://web.facebook.com/ismael.kiprop.752" target="_blank">Facebook</a></li>
+        <li><a class="badge" href="https://www.youtube.com/@ismaeltechie" target="_blank">Youtube</a></li>
+        
     </ul>
-    <p>Thank you for visiting my profile! If you have any questions or would like to collaborate on a project, feel free to reach out. Let's connect and make an impact          together! 🚀</p>
+<p>Thank you for visiting my profile! If you have any questions or would like to collaborate on a project, feel free to reach out. Let's connect and make an impact          together! 🚀</p>
     <p align="left">
         <img src="https://komarev.com/ghpvc/?username=ismaelkiprop&label=Profile%20views&color=0e75b6&style=flat" alt="ismaelkiprop">
     </p>
@@ -51,16 +54,25 @@
             <img src="https://github-profile-trophy.vercel.app/?username=ismaelkiprop" alt="ismaelkiprop" />
         </a>
     </p>
-    <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
-        <a href="https://twitter.com/@kipropismael27" target="_blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kipropismael27" height="30" width="40" />
-        </a>
-        <a href="https://linkedin.com/in/ismael kiprop" target="_blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismael kiprop" height="30" width="40" />
-        </a>
+    <a href="https://twitter.com/@kipropismael27" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kipropismael27" height="30" width="40" />
+    </a>
+    <a href="https://linkedin.com/in/ismael kiprop" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismael kiprop" height="30" width="40" />
+    </a>
+    <a href="https://web.facebook.com/ismael.kiprop.752" target="_blank">
+        <!-- Replace the image URL with your Facebook icon -->
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Your Facebook" height="30" width="40" />
+    </a>
+    <a href="https://www.youtube.com/@ismaeltechie" target="_blank">
+        <!-- Replace the image URL with your YouTube icon -->
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Your YouTube" height="30" width="40" />
+    </a>
 </p>
+
 
 <img align="center" width="400" src="https://github.com/IsmaelKiprop/IsmaelKiprop/assets/133222922/b43aa1b9-be52-4fa4-a1d1-20e7d64fbb83">
 
