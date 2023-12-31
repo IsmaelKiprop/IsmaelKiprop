@@ -2,13 +2,6 @@
 <html>
 <head>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    <style>
-        /* CSS to center align the image */
-        .center-align {
-            display: block;
-            margin: 0 auto;
-        }
-    </style>
 </head>
 <body>
 <img width="699" alt="image" src="https://github.com/IsmaelKiprop/IsmaelKiprop/assets/133222922/384ee16c-c095-42ec-aced-7809ce6118b8" class="center-align">
