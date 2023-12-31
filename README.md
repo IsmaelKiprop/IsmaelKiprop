@@ -4,10 +4,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
-  <div align="center">
-  <img src="![WhatsApp Image 2023-12-31 at 09 44 00_92179836](https://github.com/IsmaelKiprop/IsmaelKiprop/assets/133222922/5748c459-5e52-41f8-8e21-2ad3378025ee)
-" alt="Logo" width="1280" height="300">
-</div>
+ ![WhatsApp Image 2023-12-31 at 09 44 00_92179836](https://github.com/IsmaelKiprop/IsmaelKiprop/assets/133222922/61e2d80a-86de-446d-9339-2faed22fdca2)
+
 
 <h1>Hi 👋, I'm Ismael</h1>
     <h3 align="center">
