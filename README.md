@@ -53,7 +53,7 @@
     <a href="https://twitter.com/@kipropismael27" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kipropismael27" height="30" width="40" />
     </a>
-    <a href="https://linkedin.com/in/ismael kiprop" target="_blank">
+    <a href="https://www.linkedin.com/in/ismael-kiprop-362599365" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismael kiprop" height="30" width="40" />
     </a>
     <a href="https://web.facebook.com/ismael.kiprop.752" target="_blank">
