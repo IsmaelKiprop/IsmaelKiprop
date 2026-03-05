@@ -11,9 +11,9 @@ Building scalable platforms, AI solutions and digital infrastructure across Afri
 
 ## 👨‍💻 About Me
 
-- 💻 Lead Developer at **Go Digital Africa**
+- 💻 **Software Engineer**
 - 🤖 AI Engineer focused on **Generative AI & LLM Applications**
-- 🌱 Founder of **Climate Wavers**
+- 🌱 Founder of **Climate Wavers & V&I Delights**
 - 🚀 Builder of multiple SaaS platforms
 - 📍 Nairobi, Kenya
 
@@ -102,9 +102,12 @@ https://sidms.gov.so
 
 # 📊 GitHub Stats
 
-![Ismael's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsmaelKiprop&show_icons=true&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsmaelKiprop&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IsmaelKiprop&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IsmaelKiprop&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsmaelKiprop&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IsmaelKiprop&theme=github_dark&utcOffset=8)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelKiprop&layout=compact&theme=radical)
 
 ## 🐍 Contribution Snake
 
