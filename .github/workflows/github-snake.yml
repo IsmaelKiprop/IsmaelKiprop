@@ -1,0 +1,34 @@
+name: Generate GitHub Snake
+
+# Run daily at midnight (UTC)
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch: # allows manual run from Actions tab
+
+jobs:
+  build-snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the repo
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      # Step 2: Generate GitHub Snake using Platane/snk
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/github-snake.svg
+            assets/github-snake-dark.svg?palette=github-dark
+
+      # Step 3: Commit & push updated snake images
+      - name: Commit and Push Snake
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/github-snake.svg assets/github-snake-dark.svg
+          git commit -m "Update GitHub contribution snake [skip ci]" || echo "No changes to commit"
+          git push
