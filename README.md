@@ -11,7 +11,7 @@ Building scalable platforms, AI solutions and digital infrastructure across Afri
 
 ## 👨‍💻 About Me
 
-- 💻 ALX **Software Engineer** Graduate
+- 💻 ALX **Software Engineering** Graduate
 - 🤖 AI Engineer focused on **Generative AI & LLM Applications**
 - 🌱 Founder of **Climate Wavers & V&I Delights**
 - 🚀 Builder of multiple SaaS platforms
