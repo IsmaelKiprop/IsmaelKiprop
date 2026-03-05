@@ -114,6 +114,14 @@ https://sidms.gov.so
 
 ---
 
+![](https://komarev.com/ghpvc/?username=IsmaelKiprop)
+![](https://img.shields.io/github/followers/IsmaelKiprop)
+![](https://img.shields.io/github/stars/IsmaelKiprop)
+
+---
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IsmaelKiprop&theme=react-dark)
+
 # 🌐 Connect With Me
 
 [LinkedIn](https://linkedin.com/in/ismael-kiprop-362599365)
