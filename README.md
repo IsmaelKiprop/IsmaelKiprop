@@ -1,124 +1,140 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-</head>
-<body>
-<img width="699" alt="image" src="https://github.com/IsmaelKiprop/IsmaelKiprop/assets/133222922/384ee16c-c095-42ec-aced-7809ce6118b8" class="center-align">
-<h1>Hi 👋, I'm Ismael</h1>
-    <h3 align="center">
-        <span class="marquee">A Passionate Full Stack Software Engineer</span>
-    </h3>
-<ul>
-    <li>🌱 I'm currently focusing on <strong>Python Programming</strong>.</li>
-    <li>👨‍💻 You can find my projects on my <a href="https://ismaelkiprop.github.io/PORTFOLIO/" target="_blank">Portfolio</a> Website</li>
-    <li>📫 You can email me at <strong><a href="mailto:kipropismael27@gmail.com">kipropismael27@gmail.com</a></strong>.</li>
-    <li>😄 Pronouns: <strong>"iss"</strong>.</li>
-    <li>📱 You can also contact me on WhatsApp at <strong><a href="https://wa.me/254768049757">+254768049757</a></strong>.</li>
-</ul>
+<h1 align="center">Hi 👋, I'm Ismael Kiprop</h1>
+<h3 align="center">Software Engineer | AI Solutions Engineer | Full Stack Developer</h3>
 
-</ul>
-    <h3>Skills and Technologies</h3>
-    <ul>
-        <li>Programming Languages: C, Python, PHP</li>
-        <li>Web Technologies: HTML, CSS, JavaScript</li>
-        <li>Version Control: Git, GitHub</li>
-        <li>Operating Systems: Linux, Windows</li>
-    </ul>
-
-<h3>Achievements</h3>
-<ul>
-    <li><strong>3rd Place Winner</strong> at the Talan Global Hackathon 2023 🏆</li>
-    <li>As part of our victory, <strong>100 trees will be planted</strong> in recognition of our achievement. 🌱</li>
-    <li>This hackathon connected us with global talents and AI innovations. Thanks to organizers and participants for a memorable experience. 🤖</li>
-    <li>Huge thanks to mentors and supporters, your guidance was invaluable. 💪</li>
-</ul>
-
-<img width="529" alt="image" src="https://github.com/IsmaelKiprop/IsmaelKiprop/assets/133222922/ee7ceae4-e390-4a6b-88af-fb4afa12fc38">
-
- 
-<h3>Badges</h3>
-<p>Thank you for visiting my profile! If you have any questions or would like to collaborate on a project, feel free to reach out. Let's connect and make an impact          together! 🚀</p>
-    <p align="left">
-        <img src="https://komarev.com/ghpvc/?username=ismaelkiprop&label=Profile%20views&color=0e75b6&style=flat" alt="ismaelkiprop">
-    </p>
-    <p align="left">
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=ismaelkiprop" alt="ismaelkiprop" />
-        </a>
-    </p>
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-    <a href="https://twitter.com/@kipropismael27" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kipropismael27" height="30" width="40" />
-    </a>
-    <a href="https://www.linkedin.com/in/ismael-kiprop-362599365" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismael kiprop" height="30" width="40" />
-    </a>
-    <a href="https://web.facebook.com/ismael.kiprop.752" target="_blank">
-        <!-- Replace the image URL with your Facebook icon -->
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Your Facebook" height="30" width="40" />
-    </a>
-    <a href="https://www.youtube.com/@ismaeltechie" target="_blank">
-        <!-- Replace the image URL with your YouTube icon -->
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Your YouTube" height="30" width="40" />
-    </a>
+<p align="center">
+Building scalable digital platforms, AI solutions, and modern web applications across Africa.
 </p>
 
+<img align="center" src="https://komarev.com/ghpvc/?username=ismaelkiprop&label=Profile%20views&color=0e75b6&style=flat" />
 
-<img align="center" width="400" src="https://github.com/IsmaelKiprop/IsmaelKiprop/assets/133222922/b43aa1b9-be52-4fa4-a1d1-20e7d64fbb83">
+---
 
-<h3 align="left">Languages and Tools:</h3>
+## 🚀 About Me
+
+- 💻 Software Engineer specializing in **AI Solutions and Full Stack Development**
+- 🌍 Based in **Nairobi, Kenya**
+- 🧠 Certified in **Generative AI**
+- 👨‍💻 Lead Developer at **Go Digital Africa**
+- 🌱 Founder of **Climate Wavers**
+- 📫 Email: **kipropismael27@gmail.com**
+- 📱 WhatsApp: **+254768049757**
+
+Portfolio  
+👉 https://ismaelkiprop.github.io/PORTFOLIO/
+
+---
+
+## 🧠 AI & Engineering Focus
+
+- Generative AI
+- LLM Applications
+- Prompt Engineering
+- AI Automation
+- AI Chatbots
+- AI Data Processing
+
+---
+
+## ⚡ Tech Stack
+
+### Programming
+- Python
+- JavaScript
+- C
+- PHP
+- TypeScript
+
+### Frontend
+- HTML
+- CSS
+- React
+- Next.js
+
+### Backend
+- Django
+- Node.js
+- REST APIs
+- Authentication Systems
+
+### Databases
+- PostgreSQL
+- MySQL
+- MariaDB
+
+### DevOps / Cloud
+- AWS
+- Git
+- GitHub
+- Deployment Pipelines
+
+---
+
+## 🏆 Achievements
+
+🥇 **AI Hackathon Semifinalist**  
+Ranked among **1000+ teams across Africa**
+
+🏆 **Talan Global Hackathon Winner (3rd Place)**
+
+🚀 **Lead Developer at Go Digital Africa**
+- Delivered **12+ projects annually**
+- Improved platform performance by **30%**
+
+🌍 **Founder – Climate Wavers**
+AI-driven disaster response technology reducing response times by **90%**
+
+---
+
+## 🌍 Projects
+
+### 🔗 Linkly Africa
+https://www.linkly.africa  
+A digital tools platform connecting social links, tools, and services for African creators.
+
+### 🧁 V&I Delights
+https://www.vandidelights.com  
+Online marketplace connecting bakeries and catering vendors with customers.
+
+### 🌱 Climate Wavers
+http://climatewavers.org  
+Climate tech platform using AI for disaster awareness and sustainability.
+
+### 🏦 Salaam Somali Bank
+https://salaam-bank-somali.vercel.app/en  
+Digital banking interface providing accessible Islamic banking services.
+
+### 🏛 SIDMS
+https://sidms.gov.so  
+Secure digital management system for enterprise data operations.
+
+---
+
+## 📜 Certifications
+
+- Generative AI in Action – IBM SkillsBuild
+- Generative AI Essentials – IBM SkillsBuild
+- Introduction to Responsible AI – Google
+- Large Language Models – Google
+- Software Engineering – ALX Africa
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
-     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://pics.freeicons.io/uploads/icons/png/9686895801536233213-64.png" alt="Django" width="40" height="40"/>
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-    </a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-    </a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-    </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/IsmaelKiprop/IsmaelKiprop/assets/133222922/bf7fff1f-eb70-43e3-afaa-1a42dc77ea84" alt="VSCode" width="40" height="40" />
-    </a>
-    
-<a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
-        <img src="https://pics.freeicons.io/uploads/icons/png/1242615691551942124-64.png" alt="Windows" width="40" height="40" />
-</a>
-    
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-</a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://pics.freeicons.io/uploads/icons/png/19218518301553750371-64.png" alt="MySQL" width="40" height="40" />
-    </a>
-    <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-        <img src="https://pics.freeicons.io/uploads/icons/png/12857605331540553618-64.png" alt="MariaDB" width="40" height="40" />
-    </a>
+<a href="https://linkedin.com/in/ismael-kiprop-362599365"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/></a>
+<a href="https://twitter.com/kipropismael27"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30"/></a>
+<a href="https://github.com/IsmaelKiprop"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=ismaelkiprop&show_icons=true&locale=en" />
 </p>
 
 <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismaelkiprop&show_icons=true&locale=en&layout=compact" alt="ismaelkiprop">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ismaelkiprop&show_icons=true&locale=en&layout=compact" />
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismaelkiprop&show_icons=true&locale=en" alt="ismaelkiprop"></p>
-
-</body>
-</html>
