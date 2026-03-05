@@ -110,7 +110,7 @@ https://sidms.gov.so
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/IsmaelKiprop/IsmaelKiprop/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/IsmaelKiprop/IsmaelKiprop/output/github-contribution-grid-snake.svg)
 
 ---
 
