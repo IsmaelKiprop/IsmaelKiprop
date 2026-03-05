@@ -1,140 +1,125 @@
+<img width="1641" height="378" alt="image" src="https://github.com/user-attachments/assets/4b4c5ae7-de0b-4aef-9ff0-c73eb6ae364b" />
+
 <h1 align="center">Hi 👋, I'm Ismael Kiprop</h1>
 <h3 align="center">Software Engineer | AI Solutions Engineer | Full Stack Developer</h3>
 
 <p align="center">
-Building scalable digital platforms, AI solutions, and modern web applications across Africa.
+Building scalable platforms, AI solutions and digital infrastructure across Africa 🌍
 </p>
 
-<img align="center" src="https://komarev.com/ghpvc/?username=ismaelkiprop&label=Profile%20views&color=0e75b6&style=flat" />
-
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 Software Engineer specializing in **AI Solutions and Full Stack Development**
-- 🌍 Based in **Nairobi, Kenya**
-- 🧠 Certified in **Generative AI**
-- 👨‍💻 Lead Developer at **Go Digital Africa**
+- 💻 Lead Developer at **Go Digital Africa**
+- 🤖 AI Engineer focused on **Generative AI & LLM Applications**
 - 🌱 Founder of **Climate Wavers**
-- 📫 Email: **kipropismael27@gmail.com**
-- 📱 WhatsApp: **+254768049757**
+- 🚀 Builder of multiple SaaS platforms
+- 📍 Nairobi, Kenya
 
-Portfolio  
-👉 https://ismaelkiprop.github.io/PORTFOLIO/
+📫 Email: **kipropismael27@gmail.com**  
+📱 WhatsApp: **+254768049757**
 
----
-
-## 🧠 AI & Engineering Focus
-
-- Generative AI
-- LLM Applications
-- Prompt Engineering
-- AI Automation
-- AI Chatbots
-- AI Data Processing
+🌐 Portfolio  
+https://ismaelkiprop.github.io/PORTFOLIO/
 
 ---
 
-## ⚡ Tech Stack
+# 🚀 Tech Stack
 
 ### Programming
-- Python
-- JavaScript
-- C
-- PHP
-- TypeScript
-
-### Frontend
-- HTML
-- CSS
-- React
-- Next.js
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
 
 ### Backend
-- Django
-- Node.js
-- REST APIs
-- Authentication Systems
+![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django)
+![NodeJS](https://img.shields.io/badge/NodeJS-darkgreen?style=for-the-badge&logo=node.js)
+
+### Frontend
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js)
 
 ### Databases
-- PostgreSQL
-- MySQL
-- MariaDB
+![Postgres](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)
 
-### DevOps / Cloud
-- AWS
-- Git
-- GitHub
-- Deployment Pipelines
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
 
 ---
 
-## 🏆 Achievements
+# 🤖 AI Engineering
 
-🥇 **AI Hackathon Semifinalist**  
-Ranked among **1000+ teams across Africa**
-
-🏆 **Talan Global Hackathon Winner (3rd Place)**
-
-🚀 **Lead Developer at Go Digital Africa**
-- Delivered **12+ projects annually**
-- Improved platform performance by **30%**
-
-🌍 **Founder – Climate Wavers**
-AI-driven disaster response technology reducing response times by **90%**
+- Generative AI
+- Prompt Engineering
+- AI Chatbots
+- LLM Integration
+- AI Automation
+- Sentiment Analysis
 
 ---
 
-## 🌍 Projects
+# 🌍 Major Projects
 
-### 🔗 Linkly Africa
-https://www.linkly.africa  
-A digital tools platform connecting social links, tools, and services for African creators.
+🔗 **Linkly Africa**  
+https://www.linkly.africa
 
-### 🧁 V&I Delights
-https://www.vandidelights.com  
-Online marketplace connecting bakeries and catering vendors with customers.
+🧁 **V&I Delights**  
+https://www.vandidelights.com
 
-### 🌱 Climate Wavers
-http://climatewavers.org  
-Climate tech platform using AI for disaster awareness and sustainability.
+🌱 **Climate Wavers**  
+http://climatewavers.org
 
-### 🏦 Salaam Somali Bank
-https://salaam-bank-somali.vercel.app/en  
-Digital banking interface providing accessible Islamic banking services.
+🏦 **Salaam Somali Bank Platform**  
+https://salaam-bank-somali.vercel.app/en
 
-### 🏛 SIDMS
-https://sidms.gov.so  
-Secure digital management system for enterprise data operations.
+🗂 **SIDMS Enterprise System**  
+https://sidms.gov.so
 
 ---
 
-## 📜 Certifications
+# 🏆 Achievements
 
-- Generative AI in Action – IBM SkillsBuild
-- Generative AI Essentials – IBM SkillsBuild
-- Introduction to Responsible AI – Google
-- Large Language Models – Google
-- Software Engineering – ALX Africa
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/ismael-kiprop-362599365"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/></a>
-<a href="https://twitter.com/kipropismael27"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30"/></a>
-<a href="https://github.com/IsmaelKiprop"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/></a>
-</p>
+🥇 AI Hackathon Semifinalist (1000+ teams)  
+🏆 3rd Place – Talan Global Hackathon  
+🚀 Lead Developer – Go Digital Africa  
+🌍 Founder – Climate Wavers
+🌍 Founder – V&I Delights
 
 ---
 
-## 📊 GitHub Stats
+# 📜 Certifications
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=ismaelkiprop&show_icons=true&locale=en" />
-</p>
+- Generative AI in Action — IBM SkillsBuild
+- Generative AI Essentials — IBM SkillsBuild
+- Responsible AI — Google
+- Large Language Models — Google
+- Software Engineering — ALX
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ismaelkiprop&show_icons=true&locale=en&layout=compact" />
-</p>
+---
+
+# 📊 GitHub Stats
+
+![Ismael's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsmaelKiprop&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelKiprop&layout=compact&theme=radical)
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/IsmaelKiprop/IsmaelKiprop/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 🌐 Connect With Me
+
+[LinkedIn](https://linkedin.com/in/ismael-kiprop-362599365)
+
+[Twitter](https://twitter.com/kipropismael27)
+
+[YouTube](https://www.youtube.com/@ismaeltechie)
+
+[GitHub](https://github.com/IsmaelKiprop)
