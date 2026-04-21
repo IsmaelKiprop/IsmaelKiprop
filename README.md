@@ -15,6 +15,7 @@ Building scalable platforms, AI solutions and digital infrastructure across Afri
 - 🤖 AI Engineer focused on **Generative AI & LLM Applications**
 - 🌱 Founder of **Climate Wavers & V&I Delights**
 - 🚀 Builder of multiple SaaS platforms
+- ☁️ AWS AI Practitioner Certified (Udacity + Accenture)
 - 📍 Nairobi, Kenya
 
 📫 Email: **kipropismael27@gmail.com**  
