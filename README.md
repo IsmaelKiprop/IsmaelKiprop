@@ -130,7 +130,7 @@ https://sidms.gov.so
 
 # 🌐 Connect With Me
 
-[LinkedIn](https://linkedin.com/in/ismael-kiprop-362599365)
+[LinkedIn](https://www.linkedin.com/in/ismael-kiprop-105378406)
 
 [Twitter](https://twitter.com/kipropismael27)
 
